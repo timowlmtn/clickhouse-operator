@@ -1,0 +1,1 @@
+export OPERATOR_NAMESPACE=owlmtn-clickhouse-operator
